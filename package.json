@@ -4,5 +4,8 @@
   "description": "Handlebars helper mapping for String.prototype",
   "repository": "https://github.com/75lb/handlebars-string",
   "main": "lib/handlebars-string.js",
-  "author": "Lloyd Brookes"
+  "author": "Lloyd Brookes",
+  "dependencies": {
+    "wodge": "~0.6.6"
+  }
 }
