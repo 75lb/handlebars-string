@@ -6,7 +6,7 @@
   "main": "lib/handlebars-string.js",
   "author": "Lloyd Brookes",
   "dependencies": {
-    "array-ting": "^1.0.4",
-    "string-ting": "^0.1.0"
+    "array-tools": "^1.0.6",
+    "string-tools": "^0.1.4"
   }
 }
