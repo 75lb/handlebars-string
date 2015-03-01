@@ -1,6 +1,6 @@
 {
   "name": "handlebars-string",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Handlebars helper mapping for String.prototype",
   "repository": "https://github.com/75lb/handlebars-string",
   "main": "lib/handlebars-string.js",
