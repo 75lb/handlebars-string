@@ -2,21 +2,14 @@
 [![npm module downloads per month](http://img.shields.io/npm/dm/handlebars-string.svg)](https://www.npmjs.org/package/handlebars-string)
 [![Dependency Status](https://david-dm.org/75lb/handlebars-string.svg)](https://david-dm.org/75lb/handlebars-string)
 
-handlebars-string
-===============
+# handlebars-string
 
-##Install
+## Install
 ```sh
 $ npm install handlebars-string
 ```
 
-##Usage
+## Usage
 ```js
-var handlebars = require("handlebars");
-var handlebarsString = require("handlebars-string");
-
-/* this will register the handlebars-string helpers on your handlebars instance */
-handlebarsString(handlebars);
+handlebars.registerHelper(require("handlebars-string"));
 ```
-
-###Examples
