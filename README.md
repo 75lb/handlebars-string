@@ -13,3 +13,7 @@ $ npm install handlebars-string
 ```js
 handlebars.registerHelper(require("handlebars-string"));
 ```
+
+## License
+
+Licensed under [the MIT license](https://opensource.org/licenses/MIT).
